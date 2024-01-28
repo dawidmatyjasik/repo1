@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Zmiana w repo1
+=======
+Konfliktowa zmiana w repo2
+>>>>>>> fe44913c80027c1fca8f5ac90cdd5dc93f77beea
