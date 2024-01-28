@@ -1,1 +1,1 @@
-Nowa zawartość pliku 2
+Konfliktowa zmiana w repo2
